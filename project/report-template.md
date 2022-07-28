@@ -51,5 +51,6 @@ we made the following :
  4- add a new feature (hour) and converted ('season' and'weather' to category) with score of 0.56
  5- perform hyper parameter tuning with score 0.48 
  6- future work: to make more feature engineering and make more new features
+ 7- split the training data into train and validation to test the generalization of the model
  
 
